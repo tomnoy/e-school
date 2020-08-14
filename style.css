@@ -1,0 +1,40 @@
+.imgn{
+    
+width: 198.07px;
+height: 59px;
+}
+img{
+    width: 100%;
+}
+.lemon-bg{
+    background-color:#F0FFF0 ;
+
+}
+
+.padding{
+    padding: 20px 90px;
+    background-color: #F0FFF0;
+}
+
+.sing-in-button{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 33px;
+    padding: 8px 20px;
+    cursor: pointer;
+}
+.btn{
+    text-align: right;
+    margin-left: 500px;
+}
+li a{
+    padding: 20px;
+}
+.any{
+    color: green;
+}
+.are{
+    color: red;
+}
+ 
