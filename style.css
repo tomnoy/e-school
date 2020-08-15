@@ -1,5 +1,7 @@
-.imgn{
-    
+.container{
+    padding-bottom: 80px;
+}
+.imgn{  
 width: 198.07px;
 height: 59px;
 }
@@ -24,6 +26,14 @@ img{
     padding: 8px 20px;
     cursor: pointer;
 }
+.sing-in-buttont{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    border-radius: 33px;
+    padding: 3px 30px;
+    cursor: pointer;
+}
 .btn{
     text-align: right;
     margin-left: 500px;
@@ -37,4 +47,62 @@ li a{
 .are{
     color: red;
 }
- 
+.fp{
+    width: 18px;
+    height: 20px;
+}
+.fpa{
+    width: 18px;
+    height: 20px;
+    margin-left: 10px;
+}
+.card{
+    padding: 20px;
+    background: whitesmoke;
+    box-shadow: 0px 10px 40px rgba(65, 51, 51, 0.1);
+    border-radius: 60px;   
+}
+.third{
+    width: 100px;
+    height: 100px;
+    left: 135px;
+    top: 618px;
+}
+.oc{
+    text-align: center;
+    margin-bottom: 40px;
+    font-family:Poppins;
+}
+.man{
+    width: 100px;
+    margin-left: 200px;
+}
+.manw{
+    position: absolute;
+    width: 580px;
+    height: 90px;
+    left: 500px;
+    top: 1590px;
+}
+.last-box{
+    background-color: #282531;
+    width: 1440px;
+    height: 369px;
+    
+   
+}
+.last{
+    color: thistle;
+    margin-top: 40px;
+    margin-left: 113px;
+}
+.sec1{
+    color: thistle;
+    margin-left: 50px;
+    margin-top:40px ;
+}
+.sec{
+    color: thistle;
+    margin-left: 50px;
+    margin-top:60px ;
+}
