@@ -65,8 +65,15 @@ li a{
 .third{
     width: 100px;
     height: 100px;
-    left: 135px;
-    top: 618px;
+    margin-left: 70px;
+    
+}
+.third-p{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.third-h{
+    margin-left: 70px;
 }
 .oc{
     text-align: center;
@@ -105,4 +112,10 @@ li a{
     color: thistle;
     margin-left: 50px;
     margin-top:60px ;
+}
+.fot{
+    text-align: center;
+    color: tomato;
+    margin-top: 156px;
+    margin-right: 8%;
 }
